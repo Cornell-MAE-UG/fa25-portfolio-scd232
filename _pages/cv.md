@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Sean Djojonegoro - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,63 +8,58 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [scd232@cornell.edu](mailto:scd232@cornell.edu) | | | **Phone:** (929)855-6954
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in mechanical design and problem-solving. Passionate about innovation and sustainability, and eager to apply technical knowledge to real-world engineering challenges.
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  Graduation: May, 2028
 
-- **[High School Name]**  
+- **Jakarta Intercultural School**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: May, 2028
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** SolidWorks, AutoCAD  
+- **Programming:** Python, MATLAB, Java 
+- **Tools:** 3D Printing, Mill, Lathe   
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Homemade Battery Powered Lightbulb**:  
+  I developed cost-effective step-up inverter light bulbs powered by batteries to extend lighting availability in Indonesian homes without access to electricity. To ensure versatility and adaptability, I designed circuitry for two variations of the device capable of accommodating different battery sizes, allowing users to achieve varying levels of illumination based on their resources. As part of this initiative, I donated more than fifty units to local workers and children, providing reliable nighttime lighting that enhanced both productivity and safety within their communities.
 
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **ABC Batteries - Intern**  
+  [May, 2025] - [August, 2025]  
+  - Operated manufacturing machinery such as mill and lathe to produce replacement parts that kept the battery assembly line running smoothly
+  - Collaborated with technicians to identify and resolve machining challenges, adjusting manufacturing methods to achieve precise part tolerances 
+  - Utilized SolidWorks to design and model and refine components for battery packs used in three-wheelers, telecommunications systems, and motorcycles
+  - Partnered with engineers and technicians to assemble battery packs, ensuring products met both functional specifications and production timelines
+
 
 ---
 
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- SOLIDWORKS CAD Design Assosciate, Dassault Systèmes, 2025 
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Member of Tufts Electric Racing, 2024 - 2025  
+- Member of Tufts SEDS Rocketry, 2024 - 2025
 
 ---
 
