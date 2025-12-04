@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Sean Djojonegoro
 description              : Sean Djojonegoro - Projects and CV 
-baseurl                  : "/fa-2025-portfolio-scd232"
+baseurl                  : "/fa25-portfolio-scd232"
 
 # Theme and Style
 theme: jekyll-theme-minimal
