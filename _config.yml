@@ -15,6 +15,7 @@ name                     : Sean Djojonegoro
 description              : Sean Djojonegoro - Projects and CV 
 baseurl                  : "/fa25-portfolio-scd232"
 
+
 # Theme and Style
 theme: jekyll-theme-minimal
 color_scheme: light # light/default, dark, or aqua
