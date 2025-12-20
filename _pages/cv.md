@@ -58,8 +58,9 @@ Aspiring engineering student with a strong foundation in mechanical design and p
 ---
 
 #### Extracurricular Activities
-- Member of Tufts Electric Racing, 2024 - 2025  
-- Member of Tufts SEDS Rocketry, 2024 - 2025
+- Mechanical Member of Tufts Electric Racing, 2024 - 2025  
+- Mechanical Member SEDS Rocketry, 2024 - 2025
+- Mechanical Member of Combat Robotics at Cornell Project Team, 2025 - Present
 
 ---
 
