@@ -225,9 +225,16 @@ This prototype is intended to act as a flexible scraper mechanism that can confo
 
 2. Cable Retention and Tracking  
  During operation, the cable must remain fully seated on its pulley/bearing path for at least 20 consecutive motion cycles with zero derailments.  
+ - This criterion directly addresses the already observed issue of the fishing line potentially slipping off the bearings but will also ensure our overall structure and assembly can hold itself together under repeated loadings  
+ - Achieving a zero derailment rate over more than 20 tested cycles is a high priority because maintaining proper cable tracking is critical to both the functionality and durability of the mechanism. 
+
 
 3. Pole-Mounted Usability and Stability  
  When attached to the extendable rod at its intended operating length, the system should remain controllable enough that 5 different users can complete a full scraping motion without excessive wobble, tipping, or loss of alignment.  
+ - Quantitatively, the pole should remain stable enough to allow 10 consecutive successful scraping strokes at full extension without much struggle .
+ - This criteria will be quantitatively evaluated by asking different students in our lab section and people visiting us during showcase day
+ - Improved stability at extremely long extension is a middle to high priority because while we believe it is crucial to make our device user friendly, we don’t expect the spotted lantern fly egg masses to be so high that stability will be an extreme issue. 
+
 
 ---
 
