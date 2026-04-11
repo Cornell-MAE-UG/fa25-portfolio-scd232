@@ -2,8 +2,7 @@
 layout: project
 title: Open Design Project
 description: Thermodynamics
-technologies: Pump, Thermometer, Heat Exchanger
-image: /assets/images/heatExchanger.avif
+image: /assets/images/ODP.png
 ---
 
 # Client Pitch
