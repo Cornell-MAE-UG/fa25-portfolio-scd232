@@ -18,6 +18,8 @@ image: /assets/images/ODP.png
 
 - [Client Pitch](#client-pitch)
 - [Functional Prototype](#functional-prototype)
+- [Client Report](#client-report)
+
 
 ---
 
@@ -240,3 +242,119 @@ This prototype is intended to act as a flexible scraper mechanism that can confo
 ## Demonstration
 
 The above listed criterias have the potential to be demonstrated during the exhibit day showcase through a live, interactive test in which users can operate the device to perform repeated scraping motions on mock egg masses. We have chosen to focus on criteria #2 as mechanical reliability is our primary priority which would allow the device to function smoothly under repeated use. Although it would be impossible to simulate what egg masses are like in real life, having a mock egg mass that one group member will hold up while a test user lightly “pushes” to “scrap” away will allow them to experience tension forces at work and see first hand how reliable our device is.  
+
+# Client Report
+
+## Breadwinners Cable-Tension Scraper - Chris, Fatima, Sean, Dylan, Calvin
+
+### Context & Problem Statement 
+
+Spotted Lanternfly (SLF) eggmasses are difficult to remove because they are often located high on trees in hard to reach surfaces or at odd angles. Our group has chosen to focus specifically on the mechanical removal of egg masses where accessibility is a key limitation. We believe that solving this sub problem of removing SLF egg masses is the critical step that reduces SLF population growth and prevents further infestation cycles. Furthermore, this sub problem was also chosen because existing methods such as manual scraping are labor intensive, inconsistent, and potentially unhealthy for the tree bark if it gets damaged. These challenges highlight the need for a more effective and practical removal approach that also takes into consideration the impact our our device on trees leading us to form these specific design constraints:
+
+•        Lightweight & durable for repeated field use  
+•        Simple to operate with minimal fatigue  
+•        Conforms to curved surfaces  
+
+---
+
+### Design Goal: 
+
+Develop a lightweight, durable, and easy-to-use scraper mechanism that allows agricultural workers to effectively remove spotted lanternfly (SLF) egg masses from curved, hard-to-reach surfaces at varying heights. The device must not cause crop/surface damage, cause excessive operator fatigue,  or require specialized training.
+
+---
+
+### Final Prototype and Application:
+
+Our final prototype consists of three major components. The first is an off-the-shelf twelve foot extendable pole, which allows an operator to extend the scraper head to reach high-up surfaces. It also means that users may not have to purchase an extendable pole if they already have one, saving money.
+
+The second major part is a 3d-printed tooth and gear mechanism designed to integrate with the adjustable hinge from the extendable pole. The original hinge mechanism used two toothed components held together by a screw and bolt. Loosening the screw allowed the mechanism to be turned freely, and it could then be re-tightened to lock it. The new part copied one of the original toothed components, and added a mounting block for the scraper head. This allows the head to take on a variety of angles, further extending the flexibility of the design and allowing for scraping at hard to reach angles.     
+
+The last component is a custom-built scraper head. The head uses a fishing line tensioned by a pair of linear springs to scrape SLF eggs off of curved surfaces. The tensioned line is specifically designed to maintain a firm contact and scraping force while wrapping around irregularly shaped surfaces. Fishing line is used for its availability and low chance of surface damage. The line is mounted on a pair of 3d-printed pulleys and held in place by guides made from 3/8ths inch standoffs. The entire assembly is mounted on a fabricated aluminum plate. These design choices were made primarily for durability, precision, and a lower chance for the system to jam, improving overall ease of use.
+
+In order to use the scraper, the user first adjusts the pole to the required length, and adjusts the hinge to the required angle. They then push the scraper head at an angle against the surface, and slide the head to remove SLF eggs. The cable conforms to the surface, sliding under SLF eggs, destabilizing their connection with the surface, and scraping them loose.
+
+As the spotted lanternfly continues to spread across North America, our cable-tension scraper represents a first step toward scalable, chemical-free pest removal. We envision the tool being refined for mass production with weatherproof materials, ergonomic designs, and improved mechanisms, then distributed through agricultural extension programs to reach workers across affected regions. 
+
+![Photo of Design Intent]({{ "/assets/images/3DPart.png" | relative_url }}){: .inline-image-l}
+<p style="text-align: center; font-size: 0.9em;"><em>Figure 1: CAD model of the custom 3D printed scraper assembly.</em></p>
+
+![Photo of Design Intent]({{ "/assets/images/finalPrototype.png" | relative_url }}){: .inline-image-l}
+<p style="text-align: center; font-size: 0.9em;"><em>Figure 2: Final assembled prototype mounted on extendable pole.</em></p>
+
+
+---
+
+### Parts List:
+![Photo of Design Intent]({{ "/assets/images/partsList.png" | relative_url }}){: .inline-image-l}
+
+---
+
+### Conclusion and Recommendations: 
+
+Our goal was to develop a lightweight, durable, and easy-to-use cable-tension scraper mechanism mounted on an extendable pole that allows agricultural workers to effectively remove spotted lanternfly (SLF) egg masses from curved, hard-to-reach surfaces at varying heights- without damaging crops, causing excessive operator fatigue, or requiring specialized training. We set out to achieve this with a goal range of rotation of 120°, a goal range of cable motion of 3 inches, and an emphasis on durability and user-friendliness. 
+
+The initial prototype performed relatively well, functionally reaching 110° range of motion, and the cable ran smoothly at first. We encountered trouble after repeated usage, as resistance rose, the cables became misaligned on their rockers, and the springs began to slip. 
+
+In our final design, we changed the frame material from wood to aluminium, improving the frame’s precision and durability. Pulleys were added to improve the stability of the cable, while guides were added to the linear springs to prevent jamming. These three improvements improved durability and reliability, while extending the cable’s range of motion.
+
+We also redesigned the hinge to reach our goal range of rotation of 120°, and added an adjustable and removable counterweight at the base of our final prototype in order to improve ergonomics when the rod is fully extended. Finally, our tests using clay as an egg mass substitute were effective and promising.
+
+---
+
+### Recommended Improvements.
+
+Add a catcher/net to capture egg masses when scraped off  
+Stronger fasteners or fully machined mounting block to exceed 5–8 N threshold  
+Weatherproof components to prevent outdoor degradation  
+Redesigned springs based on a tape measure, which maintain cable tension even as the cable loosens and are more resistant to jamming.  
+Grabber mechanism that can wrap around a wider variety of surfaces, reducing the total number of passes needed to fully scrape areas.
+
+---
+
+### Testing and Results : 
+
+#### 1. Range of Motion - Partial (Improvements Required)
+
+Cable should be able to stretch about 3 inches without jamming, derailment, or permanent deformation. Achieving this design constraint would allow users to reach and fully engage egg masses located at uneven or angled surfaces while maintaining smooth motion necessary for effective scraping. Our group chose 3 inches as a target because the exact dimensions and surface profiles of SLF egg masses vary significantly in the field and are difficult to standardize. We selected an approximation of 3 inches as it provides sufficient flexibility to accommodate this variability while still maintaining control, structural integrity, and consistent force transmission during operation.
+
+During testing, the cable on the final prototype could stretch about 3 in. As a result, for surfaces that did not fit within the prongs of the scraper head, the cable could conform to almost 90° angles. For surfaces that fit into the scraper head, including small curved surfaces like a water bottle, around 110° of the surface could be scraped in one pass.
+
+#### 2. Cable Retention - Partial (Improvements Required)
+
+The device should have 0 derailments over 20 consecutive motion cycles. Spotted lantern fly egg masses come in large volumes which means our device needs to have sufficient structural integrity across many scraping motions. Ensuring consistent cable retention minimizes interruptions and prevents the need for adjustments, allowing users to operate efficiently. We selected the value of 20 cycles as it represents a realistic short duration use case in which a user would perform repeated scraping actions in successions. If our designs are able to pass the 20 consecutive tests, we can realistically conclude that the mechanism is capable of maintaining consistent performance and is unlikely to experience frequent failures.   
+
+During testing, the cable would derail if scraping happened at angles close to perpendicular to the surface. Further analysis determined that this was the result of lateral forces that pushed the cable out of the pulley, and improvements in pulley designs are recommended. Spring mechanism performed up to standard during testing.
+
+#### 3. Usability & Stability - Pass
+
+Five different users should each be able to complete full scraping motions without experiencing excessive wobble or loss of control. This ensures the device is accessible and functional across a range of users, regardless of strength or experience level, reflecting our commitment to a tool that requires no specialized training.
+
+#### 4. Reach - Pass
+
+The tool should be able to reach at least 10 feet into the air, so it can access egg masses that are located high up on trees. A favorite location for spotted lanternflies to lay eggs are Trees of Heaven. These trees can reach heights of up to 50 feet but most juvenile trees are between 10-15 feet tall and the locations where spotted lanternflies lay their egg masses are often in this range, even when the trees are taller than this. Therefore, our group chose a goal length of 10 feet for our scraper length, so that most egg masses are accessible from the ground.
+
+The final device had a reach slightly over 12 feet, when accounting for operator height.
+
+#### 5. Durability of Hinge Mechanism - Pass
+
+The turning point of the tool can undergo ≥20 adjustments without noticeable change in stability or wear. Despite concerns of shear weakness in the 3d-printed hinge, the hinge was able to undergo many cycles without issues.
+
+---
+
+### Testing Details: 
+
+#### Range of motion:
+
+Our design utilized fish lines attached to linear springs that were aligned along aluminum tracks. Each linear spring would be pulled out as tension was applied to the line drawn across the head of the scraper, and would retract once that tension was relieved. The linear springs were picked specifically to undergo moderate movement between forces of 0-10 Newtons, which was the estimated amount of force it would take to scrape lanternfly egg masses off of trees. This was chosen so that the deformation would allow the scraper to remove egg masses from uneven surfaces as well as not damaging the actual surface. 	
+
+#### Cable Retention:
+
+In our original experiment, our cable derailed constantly and the linear spring became tangled after only a few uses. A main focus of our final prototype was to ensure that the cable would remain seated in the rollers and also the linear spring would remain on track after repeated use. In this regard, we utilized larger rollers with a track that the fish line could sit in, and also used guide rails to keep the linear springs moving in only one plane. When testing, one cycle consisted of scraping a clay mass from an uneven surface successfully. We were successful in performing 20 cycles with the linear springs staying in line and the cable not unseating from the rollers.
+
+#### Usability and Stability:
+
+One main goal of our project was to create a tool that anyone could use. In this regard, we employed things like our counterweight and using light materials like aluminum in the prototype. To make sure that our product was usable in the field, we picked different people with different builds (height, weight, etc) to test our scraper both at its shortest and longest length to ensure that it was usable for anyone. 
+
+#### Reach:
+
+We obtained an extendable pole that satisfied our success criteria without any modifications to its extendable function needed. The only changes to this was the addition of the counterweight on the bottom, and a modification to the connection between the pole head and the scraper head, which is detailed in the final prototype and application section.
